@@ -1,0 +1,5 @@
+#!/bin/bash
+
+cd /home/pi/CityClub
+echo "Reload"
+sudo python3 CityClub.py
